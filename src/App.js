@@ -13,6 +13,10 @@ class App extends Component {
         <p className="App-intro">
           This is a useful tool to help make it easier to name your sprint cycles using food, pop culture, and just about anything else!
         </p>
+        <ul>
+      
+          <li>test</li>
+      </ul>
       </div>
     );
   }
