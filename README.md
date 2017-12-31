@@ -6,5 +6,3 @@ I'm sure you've ran into this issue before. You want to give your sprints a fun 
 2. Design UI
 3. Build UI
 4. Create as Offline App
-5. ???
-6. No Profit!
