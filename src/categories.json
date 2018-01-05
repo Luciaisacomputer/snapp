@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "categoryName": "Cats"
+        },
+        {
+            "id": 2,
+            "categoryName": "Dogs"
+        },
+        {
+            "id": 3,
+            "categoryName": "Pasta"
+        }
+    ]
+}
