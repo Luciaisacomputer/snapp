@@ -14,6 +14,21 @@
             "id": 3,
             "categoryName": "Pasta",
             "categoryItems: []
+        },
+        {
+            "id": 4,
+            "categoryName": "Star Trek Characters",
+            "categoryItems: []
+        },
+        {
+            "id": 5,
+            "categoryName": "Dinosaurs",
+            "categoryItems: []
+        },
+        {
+            "id": 6,
+            "categoryName": "Amphibians",
+            "categoryItems: []
         }
     ]
 }
