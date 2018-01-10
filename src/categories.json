@@ -3,7 +3,7 @@
         {
             "id": 1,
             "categoryName": "Cats",
-            "categoryItems: []
+            "categoryItems: [{id: "1", name: "Abyssian"}]
         },
         {
             "id": 2,
