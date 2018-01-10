@@ -2,15 +2,18 @@
     "data": [
         {
             "id": 1,
-            "categoryName": "Cats"
+            "categoryName": "Cats",
+            "categoryItems: []
         },
         {
             "id": 2,
-            "categoryName": "Dogs"
+            "categoryName": "Dogs",
+            "categoryItems: []
         },
         {
             "id": 3,
-            "categoryName": "Pasta"
+            "categoryName": "Pasta",
+            "categoryItems: []
         }
     ]
 }
