@@ -1,34 +1,37 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "categoryName": "Cats",
-            "categoryItems: [{id: "1", name: "Abyssian"}]
-        },
-        {
-            "id": 2,
-            "categoryName": "Dogs",
-            "categoryItems: []
-        },
-        {
-            "id": 3,
-            "categoryName": "Pasta",
-            "categoryItems: []
-        },
-        {
-            "id": 4,
-            "categoryName": "Star Trek Characters",
-            "categoryItems: []
-        },
-        {
-            "id": 5,
-            "categoryName": "Dinosaurs",
-            "categoryItems: []
-        },
-        {
-            "id": 6,
-            "categoryName": "Amphibians",
-            "categoryItems: []
-        }
-    ]
+	"data": [{
+			"id": 1,
+			"categoryName": "Cats",
+			"categoryItems": {
+				"id": 1,
+				"name": "Abyssian"
+			}
+		},
+		{
+			"id": 2,
+			"categoryName": "Dogs",
+			"categoryItems": []
+		},
+		{
+			"id": 3,
+			"categoryName": "Pasta",
+			"categoryItems": []
+		},
+		{
+			"id": 4,
+			"categoryName": "Star Trek Characters",
+			"categoryItems": []
+		},
+		{
+			"id": 5,
+			"categoryName": "Dinosaurs",
+			"categoryItems": []
+		},
+		{
+			"id": 6,
+			"categoryName": "Amphibians",
+			"categoryItems": []
+
+		}
+	]
 }
