@@ -32,6 +32,12 @@
 			"categoryName": "Amphibians",
 			"categoryItems": []
 
+		},
+		{
+			"id": 6,
+			"categoryName": "Colors",
+			"categoryItems": []
+
 		}
 	]
 }
